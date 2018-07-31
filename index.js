@@ -2,6 +2,7 @@
 var kittens = ["Milo", "Otis", "Garfield"];
 //GOOD ABOVE
 
+<<<<<<< HEAD
 function destructivelyAppendKitten(name) {
   kittens.push(name);
    return kittens;
@@ -53,3 +54,6 @@ function removeFirstKitten() {
 
 
 
+=======
+ function 
+>>>>>>> 3e24be016e7bfa83fbce3e9254cfd56ecf4958c3
